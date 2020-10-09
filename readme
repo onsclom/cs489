@@ -1,0 +1,10 @@
+Data source:
+https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
+
+We use:
+  the house age (x2)
+  the distance to the nearest MRT station (x3)
+  the number of convenience stores (x4) 
+  
+as the features to predict:
+  house price of unit area (Y)
